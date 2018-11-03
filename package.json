@@ -1,7 +1,7 @@
 {
   "name": "pbdesk-com",
   "version": "1.0.0",
-  "description": "My solid Nuxt.js project",
+  "description": "PBDesk.com 2019 Nuxt Project",
   "author": "Pinal Bhatt",
   "private": true,
   "scripts": {
@@ -14,18 +14,18 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "cross-env": "^5.2.0",
-    "nuxt": "^2.0.0",
-    "@nuxtjs/axios": "^5.0.0"
+    "cross-env": "5.2.0",
+    "nuxt": "2.2.0",
+    "@nuxtjs/axios": "5.3.4"
   },
   "devDependencies": {
     "nodemon": "^1.11.0",
-    "babel-eslint": "^8.2.1",
+    "babel-eslint": "^10.0.1",
     "eslint": "^5.0.1",
     "eslint-loader": "^2.0.0",
     "eslint-plugin-vue": "^4.0.0",
     "eslint-config-prettier": "^3.1.0",
-    "eslint-plugin-prettier": "2.6.2",
+    "eslint-plugin-prettier": "3.0.0",
     "prettier": "1.14.3"
   }
 }

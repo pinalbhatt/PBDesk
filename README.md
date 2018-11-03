@@ -1,6 +1,4 @@
-# pbdesk-com
-
-> My solid Nuxt.js project
+# PBDesk.com 2019 Nuxt Project
 
 ## Build Setup
 
@@ -19,4 +17,3 @@ $ npm start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
