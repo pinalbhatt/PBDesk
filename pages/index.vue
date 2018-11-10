@@ -8,9 +8,10 @@
       <h2 class="subtitle">
         PBDesk.com 2019 Nuxt Project - Coming Soon!
       </h2>
+      <p>from the desk of Pinal Bhatt</p>
       <div class="links">
-        <nuxt-link 
-          to="/about" 
+        <nuxt-link
+          to="/about"
           class="links">About</nuxt-link>
       </div>
     </div>
