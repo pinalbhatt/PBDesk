@@ -10,7 +10,7 @@ class TeamCard extends Component {
                         <div className="col-lg-3 col-sm-6">
                             <div className="single-team active">
                                 <div className="team-single-img">
-                                    <img src="/images/team/team1.png" alt="Image" />
+                                    <img src="/images/PBR.jpg" alt="Image" />
 
                                     <div className="team-img">
                                         <img src="/images/team/team-shape.png" alt="Image" />

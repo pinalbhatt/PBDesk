@@ -29,22 +29,22 @@ class Team extends Component {
 
                                     <ul>
                                         <li>
-                                            <a href="https://www.facebook.com/" target="_blank">
+                                            <a href="https://www.facebook.com/" target="_blank" rel="noreferrer">
                                                 <i className="bx bxl-facebook"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://twitter.com/" target="_blank">
+                                            <a href="https://twitter.com/" target="_blank" rel="noreferrer">
                                                 <i className="bx bxl-twitter"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://www.linkedin.com/" target="_blank">
+                                            <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
                                                 <i className="bx bxl-linkedin"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://www.pinterest.com/" target="_blank">
+                                            <a href="https://www.pinterest.com/" target="_blank" rel="noreferrer">
                                                 <i className="bx bxl-pinterest-alt"></i>
                                             </a>
                                         </li>
@@ -69,22 +69,22 @@ class Team extends Component {
 
                                     <ul>
                                         <li>
-                                            <a href="https://www.facebook.com/" target="_blank">
+                                            <a href="https://www.facebook.com/" target="_blank" rel="noreferrer">
                                                 <i className="bx bxl-facebook"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://twitter.com/" target="_blank">
+                                            <a href="https://twitter.com/" target="_blank" rel="noreferrer">
                                                 <i className="bx bxl-twitter"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://www.linkedin.com/" target="_blank">
+                                            <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
                                                 <i className="bx bxl-linkedin"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://www.pinterest.com/" target="_blank">
+                                            <a href="https://www.pinterest.com/" target="_blank" rel="noreferrer">
                                                 <i className="bx bxl-pinterest-alt"></i>
                                             </a>
                                         </li>
@@ -109,22 +109,22 @@ class Team extends Component {
 
                                     <ul>
                                         <li>
-                                            <a href="https://www.facebook.com/" target="_blank">
+                                            <a href="https://www.facebook.com/" target="_blank" rel="noreferrer">
                                                 <i className="bx bxl-facebook"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://twitter.com/" target="_blank">
+                                            <a href="https://twitter.com/" target="_blank" rel="noreferrer">
                                                 <i className="bx bxl-twitter"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://www.linkedin.com/" target="_blank">
+                                            <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
                                                 <i className="bx bxl-linkedin"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://www.pinterest.com/" target="_blank">
+                                            <a href="https://www.pinterest.com/" target="_blank" rel="noreferrer">
                                                 <i className="bx bxl-pinterest-alt"></i>
                                             </a>
                                         </li>
@@ -149,22 +149,22 @@ class Team extends Component {
 
                                     <ul>
                                         <li>
-                                            <a href="https://www.facebook.com/" target="_blank">
+                                            <a href="https://www.facebook.com/" target="_blank" rel="noreferrer">
                                                 <i className="bx bxl-facebook"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://twitter.com/" target="_blank">
+                                            <a href="https://twitter.com/" target="_blank" rel="noreferrer">
                                                 <i className="bx bxl-twitter"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://www.linkedin.com/" target="_blank">
+                                            <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
                                                 <i className="bx bxl-linkedin"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://www.pinterest.com/" target="_blank">
+                                            <a href="https://www.pinterest.com/" target="_blank" rel="noreferrer">
                                                 <i className="bx bxl-pinterest-alt"></i>
                                             </a>
                                         </li>

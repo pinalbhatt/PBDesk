@@ -7,7 +7,9 @@
         "dev": "next dev -p 3535",
         "build": "next build",
         "start": "next start",
-        "export": "next export"
+        "export": "next export",
+        "lint": "next lint",
+        "lintf": "next lint --fix"
     },
     "author": "Pinal Bhatt",
     "license": "PRIVATE",
@@ -26,5 +28,9 @@
         "sass": "1.42.1",
         "sweetalert2": "11.1.7",
         "sweetalert2-react-content": "4.1.1"
+    },
+    "devDependencies": {
+        "eslint": "7.32.0",
+        "eslint-config-next": "11.1.2"
     }
 }
