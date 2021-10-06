@@ -11,9 +11,11 @@ class Footer extends Component {
                 <div className="row">
                   <div className="col-lg-4 col-md-6">
                     <div className="single-widget">
-                      <a href="/" className="logo">
-                        <img src="/images/logo.png" alt="Image" />
-                      </a>
+                      <Link href="/" className="logo">
+                        <a>
+                          <img src="/images/logo.png" alt="Image" />
+                        </a>
+                      </Link>
                       <br />
                       <ul className="information">
                         <li className="address">
