@@ -28,7 +28,7 @@ class MeCard extends Component {
                         target="_blank"
                         rel="noreferrer"
                       >
-                        <i className="bx bxl-github"></i>
+                        <i className="bx bxl-github bx-md"></i>
                       </a>
                     </li>
                     <li>
@@ -37,7 +37,7 @@ class MeCard extends Component {
                         target="_blank"
                         rel="noreferrer"
                       >
-                        <i className="bx bxl-twitter"></i>
+                        <i className="bx bxl-twitter bx-md"></i>
                       </a>
                     </li>
                     <li>
@@ -46,7 +46,7 @@ class MeCard extends Component {
                         target="_blank"
                         rel="noreferrer"
                       >
-                        <i className="bx bxl-linkedin"></i>
+                        <i className="bx bxl-linkedin bx-md"></i>
                       </a>
                     </li>
                   </ul>

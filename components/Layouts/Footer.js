@@ -37,7 +37,7 @@ class Footer extends Component {
                             target="_blank"
                             rel="noreferrer"
                           >
-                            <i className="bx bxl-github"></i>
+                            <i className="bx bxl-github bx-sm"></i>
                           </a>
                         </li>
                         <li>
@@ -46,7 +46,7 @@ class Footer extends Component {
                             target="_blank"
                             rel="noreferrer"
                           >
-                            <i className="bx bxl-twitter"></i>
+                            <i className="bx bxl-twitter bx-sm"></i>
                           </a>
                         </li>
                         <li>
@@ -55,7 +55,7 @@ class Footer extends Component {
                             target="_blank"
                             rel="noreferrer"
                           >
-                            <i className="bx bxl-linkedin"></i>
+                            <i className="bx bxl-linkedin bx-sm"></i>
                           </a>
                         </li>
                       </ul>

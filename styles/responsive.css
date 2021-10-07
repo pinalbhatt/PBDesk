@@ -360,6 +360,10 @@
   .single-team {
     background-color: #060542;
   }
+  .single-team .team-content h3 {
+    color: #1dd3f8;
+  }
+
   .arduix-slider-item .arduix-slider-text h1 {
     font-size: 35px;
   }
@@ -1278,6 +1282,9 @@
   }
   .single-team {
     background-color: #060542;
+  }
+  .single-team .team-content h3 {
+    color: #1dd3f8;
   }
   .arduix-slider-item .arduix-slider-text h1 {
     font-size: 35px;
